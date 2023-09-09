@@ -1,0 +1,2 @@
+# TriMAP
+TriMAP dimension reduction
